@@ -5,10 +5,10 @@
 
 ##### This program consist of the following files:
 
-- [main.c]()
-- [method.h]()
-- [methods.c]()
-- [Makefile]()
+- [main.c](https://github.com/AlanShami/xed/blob/main/main.c)
+- [method.h](https://github.com/AlanShami/xed/blob/main/method.h)
+- [methods.c](https://github.com/AlanShami/xed/blob/main/methods.c)
+- [Makefile](https://github.com/AlanShami/xed/blob/main/Makefile)
 
 -----
 
